@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplestConsoleMEFDemo", "SimplestConsoleMEFDemo\SimplestConsoleMEFDemo.csproj", "{5C36D48D-95E2-46B2-A721-8A66F3EF2CC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractServicePluginDemo", "ServicePluginDemo\ContractServicePluginDemo.csproj", "{9D015E80-6618-4D30-A549-70FE4997F338}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C36D48D-95E2-46B2-A721-8A66F3EF2CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C36D48D-95E2-46B2-A721-8A66F3EF2CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C36D48D-95E2-46B2-A721-8A66F3EF2CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D015E80-6618-4D30-A549-70FE4997F338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D015E80-6618-4D30-A549-70FE4997F338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D015E80-6618-4D30-A549-70FE4997F338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D015E80-6618-4D30-A549-70FE4997F338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

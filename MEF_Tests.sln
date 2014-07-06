@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplestConsoleMEFDemo", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractServicePluginDemo", "ServicePluginDemo\ContractServicePluginDemo.csproj", "{9D015E80-6618-4D30-A549-70FE4997F338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluggableCalculator", "PluggableCalculator\PluggableCalculator.csproj", "{E3F223AD-BF49-4366-A9D5-647EA2A7B887}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9D015E80-6618-4D30-A549-70FE4997F338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D015E80-6618-4D30-A549-70FE4997F338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D015E80-6618-4D30-A549-70FE4997F338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F223AD-BF49-4366-A9D5-647EA2A7B887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F223AD-BF49-4366-A9D5-647EA2A7B887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F223AD-BF49-4366-A9D5-647EA2A7B887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F223AD-BF49-4366-A9D5-647EA2A7B887}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

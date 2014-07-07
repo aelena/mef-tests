@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractServicePluginDemo",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluggableCalculator", "PluggableCalculator\PluggableCalculator.csproj", "{E3F223AD-BF49-4366-A9D5-647EA2A7B887}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteredCatalogDemo", "FilteredCatalogDemo\FilteredCatalogDemo.csproj", "{89BF17DC-E7FA-4F21-B1DF-AEF1A97727E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E3F223AD-BF49-4366-A9D5-647EA2A7B887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3F223AD-BF49-4366-A9D5-647EA2A7B887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3F223AD-BF49-4366-A9D5-647EA2A7B887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BF17DC-E7FA-4F21-B1DF-AEF1A97727E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BF17DC-E7FA-4F21-B1DF-AEF1A97727E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BF17DC-E7FA-4F21-B1DF-AEF1A97727E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BF17DC-E7FA-4F21-B1DF-AEF1A97727E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
